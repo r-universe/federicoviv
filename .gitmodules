@@ -3,8 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Convolutioner"]
+	path = Convolutioner
+	url = https://github.com/cran/Convolutioner
+	shallow = true
+	registered = true
 [submodule "EleChemr"]
 	path = EleChemr
 	url = https://github.com/federicoviv/elechemr
+	shallow = true
+	registered = true
+[submodule "SIPETool"]
+	path = SIPETool
+	url = https://github.com/cran/SIPETool
 	shallow = true
 	registered = true
